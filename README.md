@@ -3,7 +3,7 @@
 
 # my_app
 
-A new Flutter project.
+A new weather app created with flutter dart.
 
 ## Getting Started
 
