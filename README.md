@@ -3,7 +3,7 @@
 
 # my_app
 
-A new weather app created with flutter dart.
+A new weather app created with flutter dart. The app uses weather data from https://api.openweathermap.org api.
 
 ## Getting Started
 
